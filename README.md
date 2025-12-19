@@ -50,7 +50,7 @@ Compreensão das colunas, tipos de dados e possíveis inconsistências.
  Criação de gráficos claros para facilitar a interpretação dos resultados e comunicação com o negócio.
  
 ## 5. Insights da Análise
-- A análise dos dados permitiu identificar padrões relevantes, como:
+A análise dos dados permitiu identificar padrões relevantes, como:
 - O tempo médio de entrega é de 125 min (2h) com desvio-padrão de 52 min (2h). A entrega mais rápida aconteceu em 10 min e a mais lenta em 270 min (4,5h).
 - A área “Semi-Urban” é a única área que apresenta mais atrasos do que entregas sem atraso. 
 - Os atrasos aumentam em dias nublados e com neblina, e diminuem em dias de sol.
