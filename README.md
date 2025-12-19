@@ -76,7 +76,7 @@ Link para o relatório completo: https://lookerstudio.google.com/reporting/e0373
 Além disso, o projeto demonstra como a análise de dados pode transformar dados operacionais em decisões práticas, mesmo utilizando técnicas simples.
 
 ## 7. Próximos passos
-- Com base nos resultados obtidos, os próximos passos recomendados são:
+Com base nos resultados obtidos, os próximos passos recomendados são:
 - Criar planos de ação específicos para áreas, veículos e condições mais críticas.
 - Monitorar a taxa de atraso de forma contínua por meio de dashboards.
 - Avaliar treinamentos ou ajustes operacionais para entregadores e rotas.
